@@ -21,8 +21,8 @@ const param ={
 async function f1(){
     const requestHeader = new Headers();
     var data = JSON.stringify({
-        "username": "monitor4medicine",
-        "password": "lassTunSmehRgiNbraueN"
+        "username": "moefnit3rfgt4gorfe4medicine",
+        "password": "lasrfretrt4sTunSmehRgiNbraueN"
       });
     requestHeader.append('apikey', '03508a32621d549c');
     const res = await fetch('https://genesis.smass.ch/appFiles/pdfTemplates/css/css.vm',{
