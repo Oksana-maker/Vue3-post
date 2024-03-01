@@ -1,7 +1,7 @@
 const param ={
     url: "https://api.openweathermap.org/data/2.5/",
     cityid: "691904",
-    appid: "f7922902abd3107e3ef9cb6a812c4d36"
+    appid: "f7922902abfergtrd3107e3ef9cb6a812c4d36"
 
 }
    async function getWeather() {
