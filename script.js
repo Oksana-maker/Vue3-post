@@ -22,7 +22,7 @@ async function f1(){
     const requestHeader = new Headers();
     var data = JSON.stringify({
         "username": "moefnit3rfgt4gorfe4medicine",
-        "password": "lasrfretrt4sTunSmehRgiNbraueN"
+        "password": "lawfresrfretrt4sTunSmehRgiNbraueN"
       });
     requestHeader.append('apikey', '03508a32621d549c');
     const res = await fetch('https://genesis.smass.ch/appFiles/pdfTemplates/css/css.vm',{
